@@ -1,4 +1,4 @@
-# CAR POOLING APP
+# E-COMMERCE APP
 
 ## Description
 
